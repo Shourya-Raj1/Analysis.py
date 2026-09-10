@@ -1,4 +1,4 @@
-🛳️# Titanic Data Cleaning and Exploratory Data Analysis
+## 🛳️Titanic Data Cleaning and Exploratory Data Analysis
 
 This repository contains my internship project completed in two consecutive weeks using the Titanic public dataset.
 
